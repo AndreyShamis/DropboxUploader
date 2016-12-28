@@ -58,9 +58,9 @@ configuration and look for the `CURLOPT_CAINFO` option on [`curl_setopt` (PHP ma
 Developing
 ----------
 
-To develop, it is most easy to checkout the [hakre/DropboxUploader][development] branch:
+To develop, it is most easy to checkout the [AndreyShamis/DropboxUploader][development] branch:
 
-    git clone -b development git://github.com/hakre/DropboxUploader
+    git clone -b development git://github.com/AndreyShamis/DropboxUploader
     cd DropboxUploader
 
 Them retrieve the dependencies using Composer:
